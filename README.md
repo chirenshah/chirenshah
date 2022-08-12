@@ -14,10 +14,6 @@ Technical Skills
 - Database : Firebase, Mysql
 - Frameworks : Wordpress, Flutter, Flask, Django, Unity, Drupal
 
-
-
-Wordpress, Flutter, Flask, Django, Unity, Drupal
-
 ---
 -📫 How to reach me
   - [Email](mailto:cshah13@asu.edu)
