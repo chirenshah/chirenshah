@@ -1,9 +1,22 @@
 ### Hi there 👋
 ---
+
 I am Chiren Shah
 - Masters of Science - Software Engineering - Arizona State University, Tempe, AZ.
 - My Passion for Software lies with dreaming up ideas and making them come true with elegant Interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
+---
+![](https://github.com/chirenshah/chirenshah/blob/main/giphy.webp)
+
+Technical Skills
+- Languages & Scripting : Python, JS, Dart, HTML, CSS, SQL, PHP, C#,
+- Tools : Git, React, Figma, Node.js , JIRA
+- Database : Firebase, Mysql
+- Frameworks : Wordpress, Flutter, Flask, Django, Unity, Drupal
+
+
+
+Wordpress, Flutter, Flask, Django, Unity, Drupal
 
 ---
 -📫 How to reach me
