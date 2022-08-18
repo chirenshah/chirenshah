@@ -2,7 +2,7 @@
 ---
 
 I am Chiren Shah
-- Masters of Science - Software Engineering - Arizona State University, Tempe, AZ.
+- Masters of Science - Computer Science - Arizona State University, Tempe, AZ.
 - My Passion for Software lies with dreaming up ideas and making them come true with elegant Interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 ---
