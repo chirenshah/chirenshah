@@ -8,7 +8,8 @@ I am Chiren Shah
 ---
 ![](https://github.com/chirenshah/chirenshah/blob/main/giphy.webp)
 
-Technical Skills
+Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 - Languages & Scripting : Python, JS, Dart, HTML, CSS, SQL, PHP, C#,
 - Tools : Git, React, Figma, Node.js , JIRA
 - Database : Firebase, Mysql
