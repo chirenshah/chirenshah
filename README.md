@@ -8,12 +8,39 @@ I am Chiren Shah
 ---
 ![](https://github.com/chirenshah/chirenshah/blob/main/giphy.webp)
 
-Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-- Languages & Scripting : Python, JS, Dart, HTML, CSS, SQL, PHP, C#,
-- Tools : Git, React, Figma, Node.js , JIRA
-- Database : Firebase, Mysql
-- Frameworks : Wordpress, Flutter, Flask, Django, Unity, Drupal
+Technologies I have worked with
+
+<!-- <p align="center">
+  <a href="https://www.python.org/" rel="nofollow"><img alt="Python" title="Python" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original-wordmark.svg" style="max-width: 100%;"></a>
+  <a href="https://dart.dev/" rel="nofollow"><img alt="Dart" title="Dart" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" style="max-width: 100%"></a>
+  <a href="https://www.mysql.com/" rel="nofollow"><img alt="Sql" title="Sql" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" style="max-width: 100%"></a>
+  <a href="https://www.php.net/" rel="nofollow"><img alt="PHP" title="PHP" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" style="max-width: 100%"></a>
+  <a href="https://www.java.com/en/" rel="nofollow"><img alt="Java" title="Java" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="max-width: 100%"></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"><img alt="C#" title="C#" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" style="max-width: 100%"></a>
+</p> -->
+  
+<!--   <p align="center">
+  <a href="https://reactjs.org/" rel="nofollow"><img alt="React" title="React" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" style="max-width: 100%"></a>
+  <a href="https://flutter.dev/" rel="nofollow"><img alt="flutter" title="flutter" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" style="max-width: 100%"></a>
+  <a href="https://www.drupal.org/" rel="nofollow"><img alt="Drupal" title="Drupal" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original-wordmark.svg" style="max-width: 100%"></a>
+  <a href="https://wordpress.com/" rel="nofollow"><img alt="Wordpress" title="Wordpress" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg" style="max-width: 100%"></a>
+  <a href="https://www.djangoproject.com/" rel="nofollow"><img alt="Django" title="Django" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" style="max-width: 100%"></a>
+  <a href="https://unity.com/" rel="nofollow"><img alt="Unity" title="Unity" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" style="max-width: 100%"></a>
+</p> -->
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,dart,php,java,cs" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter,docker,wordpress,django,unity" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,spring,tailwind,bootstrap,d3" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,aws,postgres,mongodb" />
+</p>
+
 
 ---
 -📫 How to reach me
