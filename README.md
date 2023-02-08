@@ -6,9 +6,31 @@ I am Chiren Shah
 - My Passion for Software lies with dreaming up ideas and making them come true with elegant Interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 ---
-![](https://github.com/chirenshah/chirenshah/blob/main/giphy.webp)
+-📫 How to reach me
+  - [Email](mailto:cshah13@asu.edu)
+  - [LinkedIn](https://www.linkedin.com/in/chiren-shah)
+---
 
 Technologies I have worked with
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,dart,php,java,cs" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter,docker,wordpress,django,unity" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,spring,tailwind,bootstrap,d3" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,aws,postgres,mongodb" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github.com/chirenshah/chirenshah/blob/main/giphy.webp"></img>
+</div>
+
 
 <!-- <p align="center">
   <a href="https://www.python.org/" rel="nofollow"><img alt="Python" title="Python" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original-wordmark.svg" style="max-width: 100%;"></a>
@@ -28,24 +50,6 @@ Technologies I have worked with
   <a href="https://unity.com/" rel="nofollow"><img alt="Unity" title="Unity" width="45px" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" style="max-width: 100%"></a>
 </p> -->
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,php,java,cs" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,docker,wordpress,django,unity" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,spring,tailwind,bootstrap,d3" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,aws,postgres,mongodb" />
-</p>
-
-
----
--📫 How to reach me
-  - [Email](mailto:cshah13@asu.edu)
-  - [LinkedIn](https://www.linkedin.com/in/chiren-shah)
 
 
 <!--
